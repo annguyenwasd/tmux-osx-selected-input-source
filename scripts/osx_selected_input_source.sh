@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-vn_icon="韛"
+vn_icon=""
 us_icon=" "
 
 main() {
